@@ -1,0 +1,84 @@
+.home {
+  width: 100%;
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center; /* Adjusted alignment */
+  flex-direction: column;
+  background: url('../Components/assets/imgsr07.jpeg') center/cover no-repeat; /* Simplified background shorthand */
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.headerContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  border-radius: 10px;
+  
+  color: white;
+}
+
+.headerContainer h1 {
+  font-size: 40px;
+  font-weight: normal; /* Adjusted font weight */
+  color: white;
+  margin-bottom: 10px; /* Added spacing */
+}
+
+.headerContainer p {
+  font-size: 100px; /* Adjusted font size */
+  font-weight: bold;
+  color: rgb(25, 10, 10);
+  text-align: center; /* Centered text */
+  margin-bottom: 20px; /* Added spacing */
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.headerContainer button {
+  background-color: rgb(23, 14, 14);
+  color: #e7ebee;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  height: 50px;
+  width: 180px;
+  font-size: 18px; /* Adjusted font size */
+  margin-top: 10px;
+}
+
+.headerContainer button:hover {
+  background-color: rgb(225, 225, 225);
+  color: #7ec7ff;
+  transition: background-color 0.3s ease-in; /* Included transition on hover */
+}
+
+/* Responsive adjustments */
+@media only screen and (max-width: 650px) {
+  .home {
+    height: auto; /* Adjusted height for smaller screens */
+  }
+
+  .headerContainer {
+    width: 80%;
+    padding: 15px;
+    margin-bottom: 20px; /* Added spacing */
+  }
+
+  .headerContainer h1 {
+    font-size: 30px; /* Adjusted font size */
+    margin-bottom: 5px; /* Added spacing */
+  }
+
+  .headerContainer p {
+    font-size: 25px; /* Adjusted font size */
+    margin-bottom: 15px; /* Added spacing */
+  }
+
+  .headerContainer button {
+    margin-bottom: 20px; /* Added spacing */
+    font-size: 16px; /* Adjusted font size */
+  }
+ 
+}
