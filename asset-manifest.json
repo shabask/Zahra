@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Zahra/static/css/main.e9dc2913.css",
-    "main.js": "/Zahra/static/js/main.56950cdc.js",
+    "main.css": "/Zahra/static/css/main.e75e60b8.css",
+    "main.js": "/Zahra/static/js/main.34a7dbbc.js",
     "static/js/787.8f727d95.chunk.js": "/Zahra/static/js/787.8f727d95.chunk.js",
     "static/media/general-maintenance-license-dubai.jpg": "/Zahra/static/media/general-maintenance-license-dubai.81265bc8129708a09505.jpg",
     "static/media/img1.jpeg": "/Zahra/static/media/img1.f4ebe89d073898d8e565.jpeg",
@@ -13,12 +13,12 @@
     "static/media/img2.jpeg": "/Zahra/static/media/img2.77614b6bcff173c257a2.jpeg",
     "static/media/img3.jpeg": "/Zahra/static/media/img3.da54c5908c6f6550bc7e.jpeg",
     "index.html": "/Zahra/index.html",
-    "main.e9dc2913.css.map": "/Zahra/static/css/main.e9dc2913.css.map",
-    "main.56950cdc.js.map": "/Zahra/static/js/main.56950cdc.js.map",
+    "main.e75e60b8.css.map": "/Zahra/static/css/main.e75e60b8.css.map",
+    "main.34a7dbbc.js.map": "/Zahra/static/js/main.34a7dbbc.js.map",
     "787.8f727d95.chunk.js.map": "/Zahra/static/js/787.8f727d95.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9dc2913.css",
-    "static/js/main.56950cdc.js"
+    "static/css/main.e75e60b8.css",
+    "static/js/main.34a7dbbc.js"
   ]
 }
